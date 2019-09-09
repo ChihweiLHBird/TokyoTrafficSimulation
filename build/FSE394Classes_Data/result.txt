@@ -1,0 +1,7 @@
+Total cars generated: 12
+Total cars reached the destinations: 0
+Total cars alive in this field: 12
+Total agents generated: 114
+Total agents reached the destinations: 14
+Total agents alive in this field: 100
+Time: 6.630918
